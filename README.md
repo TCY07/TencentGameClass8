@@ -1,5 +1,5 @@
-# TencentGameClass7
-## 腾讯游戏客户端公开课作业七  
+# TencentGameClass8
+## 腾讯游戏客户端公开课作业八 
 双人枪战游戏  
 在主菜单点击Play创建房间，该玩家作为主机  
 选择FindGames可以搜寻目前已有房间并加入  
